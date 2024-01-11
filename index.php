@@ -53,7 +53,7 @@
     ?>
 
 
-    <form action="zodiac.php" method="post">
+    <form action="" method="post">
         <label for="year">Year:</label>
         <input type="number" name="year" id="year" min="1900" max="<?php echo $nextYear; ?>" style="width: calc(100% - 240px);">
         <br>
